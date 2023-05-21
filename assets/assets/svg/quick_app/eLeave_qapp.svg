@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
-  <g id="Group_637" data-name="Group 637" transform="translate(-30 -299)">
+  <g id="Group_647" data-name="Group 647" transform="translate(-30 -299)">
     <rect id="Rectangle_89" data-name="Rectangle 89" width="70" height="70" rx="10" transform="translate(30 299)" fill="#fff"/>
     <text id="eLeave" transform="translate(38 355)" fill="#3b3858" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">eLeave</tspan></text>
     <g id="Group_611" data-name="Group 611" transform="translate(-81 -60)">
-      <g id="Path_901" data-name="Path 901" transform="translate(119 372)" fill="#fff">
-        <path d="M 20 14.75 L 2 14.75 C 1.03505003452301 14.75 0.25 13.96494960784912 0.25 13 L 0.25 2 C 0.25 1.03505003452301 1.03505003452301 0.25 2 0.25 L 20 0.25 C 20.96495056152344 0.25 21.75 1.03505003452301 21.75 2 L 21.75 13 C 21.75 13.96494960784912 20.96495056152344 14.75 20 14.75 Z" stroke="none"/>
-        <path d="M 2 0.5 C 1.17289924621582 0.5 0.5 1.172900199890137 0.5 2 L 0.5 13 C 0.5 13.82709980010986 1.17289924621582 14.5 2 14.5 L 20 14.5 C 20.82710075378418 14.5 21.5 13.82709980010986 21.5 13 L 21.5 2 C 21.5 1.172900199890137 20.82710075378418 0.5 20 0.5 L 2 0.5 M 2 0 L 20 0 C 21.10457038879395 0 22 0.8954296112060547 22 2 L 22 13 C 22 14.10457038879395 21.10457038879395 15 20 15 L 2 15 C 0.8954296112060547 15 0 14.10457038879395 0 13 L 0 2 C 0 0.8954296112060547 0.8954296112060547 0 2 0 Z" stroke="none" fill="#335017"/>
+      <g id="Rectangle_111" data-name="Rectangle 111" transform="translate(119 372)" fill="#fff" stroke="#5a9aed" stroke-width="0.5">
+        <rect width="22" height="15" rx="2" stroke="none"/>
+        <rect x="0.25" y="0.25" width="21.5" height="14.5" rx="1.75" fill="none"/>
       </g>
-      <rect id="Rectangle_112" data-name="Rectangle 112" width="20.5" height="14.5" rx="1" transform="translate(119 371)" fill="#335017"/>
+      <rect id="Rectangle_112" data-name="Rectangle 112" width="20.5" height="14.5" rx="1" transform="translate(119 371)" fill="#85cbfd"/>
       <path id="Icon_material-person-pin" data-name="Icon material-person-pin" d="M10.279,3H5.222a.722.722,0,0,0-.722.722V8.779a.722.722,0,0,0,.722.722H6.667l1.084,1.084L8.834,9.5h1.445A.725.725,0,0,0,11,8.779V3.722A.725.725,0,0,0,10.279,3ZM7.751,4.192a.975.975,0,1,1-.975.975A.976.976,0,0,1,7.751,4.192ZM9.918,8.057H5.584V7.732c0-.722,1.445-1.12,2.167-1.12s2.167.4,2.167,1.12Z" transform="translate(116.749 370.081)" fill="#fff"/>
       <line id="Line_16" data-name="Line 16" x2="6" transform="translate(121.5 382.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
       <line id="Line_17" data-name="Line 17" x2="6" transform="translate(130.5 374.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
