@@ -5133,7 +5133,7 @@ n=f.length===0
 if(n&&p&&!B.c.bi(b,"/"))b=A.aB8(b,!n||o)
 else b=A.mN(b)
 return A.auR(f,g,p&&B.c.bi(b,"//")?"":a,d,b,s,r)},
-GN(a,b){return A.aWR("http",a,b,null)},
+GN(a,b){return A.aWR("https",a,b,null)},
 aHN(a){if(a==="http")return 80
 if(a==="https")return 443
 return 0},
