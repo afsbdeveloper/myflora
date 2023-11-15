@@ -21126,7 +21126,7 @@ _.x=h},
 akr:function akr(a,b,c){this.a=a
 this.b=b
 this.c=c},
-Ig(a5){var s=null,r="PhoneNumber",q="Fullname",p="Username",o="DisplayName",n="Position",m="CareerLevel",l="ServiceArea",k="CostCenter",j=J.aj(a5),i=j.h(a5,"Id")==null?s:j.h(a5,"Id"),h=j.h(a5,"Email")==null?s:j.h(a5,"Email"),g=j.h(a5,r)==null?s:j.h(a5,r),f=j.h(a5,q)==null?s:j.h(a5,q),e=j.h(a5,p)==null?s:j.h(a5,p),d=j.h(a5,o)==null?s:j.h(a5,o),c=j.h(a5,"StaffId")==null?s:j.h(a5,"StaffId"),b=j.h(a5,"Picture")==null?s:j.h(a5,"Picture"),a=j.h(a5,"Token")==null?s:j.h(a5,"Token"),a0=j.h(a5,"Group")==null?s:j.h(a5,"Group"),a1=j.h(a5,n)==null?s:j.h(a5,n),a2=j.h(a5,m)==null?s:j.h(a5,m),a3=j.h(a5,"Role")==null?s:j.h(a5,"Role"),a4=j.h(a5,l)==null?s:j.h(a5,l)
+Ig(a5){var s=null,r="PhoneNumber",q="Fullname",p="Username",o="DisplayName",n="Position",m="CareerLevel",l="ServiceArea",k="CostCenter",j=J.aj(a5),i=j.h(a5,"Id")==null?s:j.h(a5,"Id"),h=j.h(a5,"Email")==null?s:j.h(a5,"Email"),g=j.h(a5,r)==null?s:j.h(a5,r),f=j.h(a5,q)==null?s:j.h(a5,q),e=j.h(a5,p)==null?s:j.h(a5,p),d=j.h(a5,o)==null?s:j.h(a5,o),c=j.h(a5,"StaffId")==null?s:j.h(a5,"StaffId"),b=j.h(a5,"Picture")==null?"":j.h(a5,"Picture"),a=j.h(a5,"Token")==null?s:j.h(a5,"Token"),a0=j.h(a5,"Group")==null?s:j.h(a5,"Group"),a1=j.h(a5,n)==null?s:j.h(a5,n),a2=j.h(a5,m)==null?s:j.h(a5,m),a3=j.h(a5,"Role")==null?s:j.h(a5,"Role"),a4=j.h(a5,l)==null?s:j.h(a5,l)
 return new A.a0W(i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,j.h(a5,k)==null?s:j.h(a5,k))},
 a0W:function a0W(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o){var _=this
 _.a=a
@@ -25766,7 +25766,7 @@ return A.M(A.fJ(),$async$af9)
 case 2:b.lx("String","rememberMe","")
 return A.F(null,r)}})
 return A.G($async$af9,r)},
-xt(){return"api-afsb-hadir.mflora.com.my"},
+xt(){return"apiafsbehadir.mflora.com.my"},
 cI(a,b,c){var s=b?A.a5(204,63,83,217):A.a5(B.d.aa(178.5),242,59,59)
 A.a5F()
 A.a5D(a,c,1,2,s,B.a6w,20,null,null)},
@@ -77861,7 +77861,7 @@ r=A.a5(B.d.aa(178.5),33,33,33)
 q=t.p
 p=A.cw(A.bd(A.b([A.f2("assets/svg/myflora_logo.svg",i,170),new A.I(B.Ix,A.f2("assets/svg/afsb_white.svg",i,150),i)],q),B.n,B.l,B.j),i,i)
 o=A.aO(A.b([B.a7l,new A.qM(i),A.aAa(B.FN,B.hH,new A.aqA(j),j.y),B.a7k],q),B.n,B.l,B.j)
-n=A.aGE(j.f,A.az5(i,i,i,i,i,i,i,i,!0,B.zU,i,i,i,i,B.p,!0,i,B.dX,i,B.zV,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,B.dX,j.y?"Staff ID":"Username",i,i,i,i,i,i,i,i,i,i,i,i,i),B.ju,!1,B.zF)
+n=A.aGE(j.f,A.az5(i,i,i,i,i,i,i,i,!0,B.zU,i,i,i,i,B.p,!0,i,B.dX,i,B.zV,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,B.dX,j.y?"Staff ID":"Email",i,i,i,i,i,i,i,i,i,i,i,i,i),B.ju,!1,B.zF)
 m=j.d
 m=A.aGE(j.r,A.az5(i,i,i,i,i,i,i,i,!0,B.zU,i,i,i,i,B.p,!0,i,B.dX,i,B.zV,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,B.dX,"Password",i,i,i,i,i,i,i,i,A.pA(i,A.aRB(m?B.JI:B.JJ,B.i,i,i),24,new A.aqB(j),i),i,i,i,i),B.a3s,m,B.zF)
 l=A.aAa(B.i,B.hH,new A.aqC(j),j.z)
@@ -77884,7 +77884,7 @@ q.y.toString
 s=q.r
 s.toString
 r.dy=s
-q=q.e
+q=q.b
 q.toString
 r.fr=q
 r.f.scg(0,q)
@@ -78424,15 +78424,15 @@ r.toString
 q.P(new A.atG(q,s.oi(r,!1,!1)))}},
 ay(){this.afF()
 this.aR()},
-M(a,b){var s,r,q,p=this,o=null,n=b.Z(t.w).f,m=A.aU(p.a.c?"You\u2019ve successfully clocked out.":"You\u2019ve successfully clocked in.",o,o,o,o,B.fR,B.w,o),l=A.Y(B.B,A.f2("assets/svg/icon_submited.svg",o,o),B.f,o,o,o,o,o,o,o,o,o,o,o),k=A.c1(15),j=A.Y(o,o,B.f,o,o,o,o,o,o,o,o,o,o,o),i=p.a,h=A.aU(i.d,o,o,o,o,B.zw,o,o),g=t.p
+M(a,b){var s,r,q,p=this,o=null,n=b.Z(t.w).f.a,m=A.aU(p.a.c?"You\u2019ve successfully clocked out.":"You\u2019ve successfully clocked in.",o,o,o,o,B.fR,B.w,o),l=A.Y(B.B,A.f2("assets/svg/icon_submited.svg",o,o),B.f,o,o,o,o,o,o,o,o,o,o,o),k=A.c1(15),j=A.Y(o,o,B.f,o,o,o,o,o,o,o,o,o,o,o),i=p.a,h=A.aU(i.d,o,o,o,o,B.zw,o,o),g=t.p
 i=!i.c?A.aO(A.b([A.bd(A.b([A.aU("Clock-in",o,o,o,o,B.dU,o,o),new A.I(B.dg,A.aO(A.b([A.Y(o,B.tw,B.f,o,o,B.yI,o,o,o,o,o,o,o,o),new A.I(B.hZ,A.aU(A.hu().bD(p.a.f.c),o,o,o,o,B.dY,o,o),o)],g),B.n,B.l,B.j),o)],g),B.D,B.l,B.j),B.yR,A.bd(A.b([A.aU("Clock out by",o,o,o,o,B.dU,o,o),new A.I(B.dg,A.aO(A.b([B.K9,new A.I(B.hZ,A.aU(p.d,o,o,o,o,B.dY,o,o),o)],g),B.n,B.l,B.j),o)],g),B.D,B.l,B.j)],g),B.n,B.l,B.j):A.bd(A.b([A.aU("Clock out",o,o,o,o,B.dU,o,o),new A.I(B.dg,A.aO(A.b([A.Y(o,B.tw,B.f,o,o,B.yI,o,o,o,o,o,o,o,o),new A.I(B.hZ,A.aU(A.hu().bD(p.a.f.c),o,o,o,o,B.dY,o,o),o)],g),B.n,B.l,B.j),o)],g),B.D,B.l,B.j)
 s=A.bd(A.b([A.aU("Date",o,o,o,o,B.dU,o,o),new A.I(B.dg,A.aO(A.b([B.Ym,A.aU(A.cC("dd MMM, yyyy",o).bD(p.a.f.c),o,o,o,o,B.dY,o,o)],g),B.D,B.l,B.j),o)],g),B.D,B.l,B.j)
 r=A.aU("Location",o,o,o,o,B.dU,o,o)
 q=p.a.f.d
 q.toString
-n=A.dD(A.ca(B.I,A.b([A.ff(0,A.Y(o,new A.I(B.J0,A.bd(A.b([j,h,new A.I(B.b6,i,o),new A.I(B.eu,s,o),new A.I(B.eu,A.bd(A.b([r,new A.I(B.dg,A.aO(A.b([B.Y0,A.hw(A.aU(q,o,o,o,o,B.dY,o,o),1)],g),B.D,B.l,B.j),o)],g),B.D,B.l,B.j),o)],g),B.D,B.l,B.j),o),B.f,o,o,new A.aB(B.W,o,o,k,o,o,o,B.o),o,250,o,o,o,o,o,n.a.a*0.85),o,o,o,o,o,o),A.ff(o,new A.uY(p.a.e,40,4,o),o,o,25,o,o,o)],g),B.H),300,o)
-k=A.c1(10)
-return A.fh(o,A.Cs(A.Y(o,new A.I(B.J5,A.bd(A.b([new A.I(B.ep,m,o),B.Yb,l,n,B.Af,new A.I(B.hU,A.Y(o,A.mk(B.a7m,new A.atH(p,b),A.ml(o,o,o,o,o,o,o,o,o,o,o,B.i,o,o,o,o,o,o)),B.f,o,o,new A.aB(B.al,o,o,k,o,o,o,B.o),o,50,o,o,o,o,o,1/0),o)],g),B.D,B.l,B.j),o),B.f,o,o,B.kD,o,o,o,o,o,o,o,o)),o,o)}}
+k=A.dD(A.ca(B.I,A.b([A.ff(0,A.Y(o,new A.I(B.J0,A.bd(A.b([j,h,new A.I(B.b6,i,o),new A.I(B.eu,s,o),new A.I(B.eu,A.bd(A.b([r,new A.I(B.dg,A.aO(A.b([B.Y0,A.hw(A.aU(q,o,o,o,o,B.dY,o,o),1)],g),B.D,B.l,B.j),o)],g),B.D,B.l,B.j),o)],g),B.D,B.l,B.j),o),B.f,o,o,new A.aB(B.W,o,o,k,o,o,o,B.o),o,250,o,o,o,o,o,n.a*0.85),o,o,o,o,o,o),A.ff(o,new A.uY(p.a.e,40,4,o),o,o,25,o,o,o)],g),B.H),300,o)
+q=A.c1(10)
+return A.fh(o,A.Cs(A.Y(o,new A.I(B.J5,A.bd(A.b([new A.I(B.ep,m,o),B.Yb,l,k,B.Af,new A.I(B.hU,A.Y(o,A.mk(B.a7m,new A.atH(p,b),A.ml(o,o,o,o,o,o,o,o,o,o,o,B.i,o,o,o,o,o,o)),B.f,o,o,new A.aB(B.al,o,o,q,o,o,o,B.o),o,50,o,o,o,o,o,1/0),o)],g),B.D,B.l,B.j),o),B.f,o,o,B.kD,o,n.b,o,o,o,o,o,o)),o,o)}}
 A.atG.prototype={
 $0(){this.a.d=A.hu().bD(this.b)},
 $S:0}
