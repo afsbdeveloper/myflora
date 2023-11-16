@@ -25769,7 +25769,7 @@ return A.G($async$af9,r)},
 xt(){return"apiafsbehadir.mflora.com.my"},
 cI(a,b,c){var s=b?A.a5(204,63,83,217):A.a5(B.d.aa(178.5),242,59,59)
 A.a5F()
-A.a5D(a,c,1,2,s,B.a6w,20,null,null)},
+A.a5D(a,c,1,1,s,B.a6w,20,null,null)},
 aIO(){var s,r,q,p,o=null
 try{o=A.ajh()}catch(s){if(t.VI.b(A.ab(s))){r=$.avb
 if(r!=null)return r
